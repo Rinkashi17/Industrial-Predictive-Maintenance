@@ -1,0 +1,3 @@
+.venv/
+data/ai4i2020.csv
+models/failure_model.joblib
